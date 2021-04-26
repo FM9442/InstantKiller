@@ -1,0 +1,4 @@
+1.0
+Supprime C:\Temp
+Supprime C:\Prefetch ( admin )
+Supprime C:\Onedrivetemp
