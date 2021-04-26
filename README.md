@@ -8,8 +8,8 @@ Run FastKiller.bat as administrator.
 Done!
 
 This program will erase :
-C:\Temp
-C:\Prefetch
-C:\OneDriveTemp WIN10 ONLY ( Temp files for One Drive not longer used )
+    C:\Temp
+    C:\Prefetch
+    C:\OneDriveTemp WIN10 ONLY ( Temp files for One Drive not longer used )
 
 Credits goes to FM#1234
