@@ -8,5 +8,5 @@ rmdir /s /q C:\Windows\Temp
 rmdir /s /q C:\Windows\Prefetch
 rmdir /s /q C:\OneDriveTemp 
 cls
-start modules.vbs
+echo Fait :)
 pause
