@@ -1,0 +1,1 @@
+MsgBox"Fait! :)",8,"FastKiller"
