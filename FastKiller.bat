@@ -1,5 +1,5 @@
 @echo off
-title FastKiller 1.1
+title FastKiller 1.2
 color 3
 cls
 echo Bienvenue sur FastKiller, pour que ce programme marche completement veuillez l'executer en administrateur!
