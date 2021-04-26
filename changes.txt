@@ -2,3 +2,6 @@
 Supprime C:\Temp
 Supprime C:\Prefetch ( admin )
 Supprime C:\Onedrivetemp
+
+1.1
+Corrige le message "Fait :)"
