@@ -1,5 +1,5 @@
 @echo off
-title FastKiller
+title FastKiller 1.2
 color 3
 cls
 echo 1.2 : L'execution en administrateur ne marche pas encore :(
