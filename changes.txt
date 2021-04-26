@@ -5,3 +5,6 @@ Supprime C:\Onedrivetemp
 
 1.1
 Corrige l'erreur modules.vbs est inexistant.
+
+1.2
+Si vous executez le script en administrateur vous aurez un meilleur taux d'efficacité mais aucune fenetre ne se verra.
