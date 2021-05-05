@@ -4,7 +4,7 @@ Hello, FastKiller is program who will erase all your temps files to save space a
     To use it :
 Download as ZIP
 Extract it
-Run FastKiller.bat as administrator.
+Run Instant-Killer as administrator!
 Done!
 
 This program will erase :
