@@ -1,4 +1,4 @@
-# Fast Killer
+# Instant Killer
 Hello, FastKiller is program who will erase all your temps files to save space and performance
 
     To use it :
